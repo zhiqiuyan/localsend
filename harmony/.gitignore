@@ -1,0 +1,19 @@
+# DevEco Studio / hvigor build artifacts
+/local.properties
+/.idea
+**/build
+**/.cxx
+**/.hvigor
+**/oh_modules
+**/node_modules
+**/.preview
+**/generated
+*.hap
+*.hsp
+*.har
+*.p12
+*.cer
+*.p7b
+
+# Signing material must never be committed
+**/signingConfigs/

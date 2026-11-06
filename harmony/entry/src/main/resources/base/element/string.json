@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "LocalSend 鸿蒙客户端"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "局域网文件互传"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "LocalSend"
+    }
+  ]
+}

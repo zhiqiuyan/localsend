@@ -1,0 +1,11 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "localsend-harmony",
+  "version": "0.1.0",
+  "description": "LocalSend Protocol v2 client for HarmonyOS NEXT, implemented natively with ArkTS + ArkUI.",
+  "main": "",
+  "author": "zhiqiuyan",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
